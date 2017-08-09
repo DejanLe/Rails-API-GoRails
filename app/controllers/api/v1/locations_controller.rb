@@ -1,7 +1,6 @@
-class Api::V1::LocationsController <ApiController
+class Api::V1::LocationsController < ApiController
 	before_action :set_location
-	def show
-
+	def show 
 	end
 
 private
